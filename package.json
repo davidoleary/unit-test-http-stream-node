@@ -1,0 +1,27 @@
+{
+  "name": "unit-test-http-stream-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidoleary/unit-test-http-stream-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidoleary/unit-test-http-stream-node/issues"
+  },
+  "homepage": "https://github.com/davidoleary/unit-test-http-stream-node#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "sinon": "^7.3.2",
+    "sinon-chai": "^3.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}

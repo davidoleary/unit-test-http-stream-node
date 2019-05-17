@@ -1,0 +1,2 @@
+## Testing a http stream
+This is simply a runnable copy of the code written in [this blog post](https://www.frontendjunkie.com/2018/07/unit-testing-nodejs-http-network.html) by Mark Paul that I wanted keep as a reference.
